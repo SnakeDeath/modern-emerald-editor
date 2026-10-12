@@ -1,6 +1,10 @@
+[![Open the editor](https://img.shields.io/badge/Open%20the%20editor-live-2ea44f?style=for-the-badge)](https://snakedeath.github.io/modern-emerald-editor/)
+
 # Modern Emerald Save Editor
 
 Browser-based save editor for Pokémon Modern Emerald 3.5 (.srm). Single static page, no build step, no server.
+
+site live at : https://snakedeath.github.io/modern-emerald-editor/
 
 Everything runs locally in the browser; saves are never uploaded.
 
