@@ -5,6 +5,7 @@
 Browser-based save editor for Pokémon Modern Emerald 3.5 (.srm). Single static page, no build step, no server.
 
 site live at : https://snakedeath.github.io/modern-emerald-editor/
+or you can press the button on top
 
 Everything runs locally in the browser; saves are never uploaded.
 
